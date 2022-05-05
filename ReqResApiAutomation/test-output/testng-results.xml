@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="79977" started-at="2022-05-05T18:26:59Z" finished-at="2022-05-05T18:28:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="79977" started-at="2022-05-05T18:26:59Z" finished-at="2022-05-05T18:28:19Z">
+      <class name="com.ReqResApiAutomation.scripts.APITestCases">
+        <test-method status="PASS" signature="initilizeRequest()[pri:0, instance:com.ReqResApiAutomation.scripts.APITestCases@96def03]" name="initilizeRequest" is-config="true" duration-ms="8718" started-at="2022-05-05T14:26:59Z" finished-at="2022-05-05T14:27:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilizeRequest -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:com.ReqResApiAutomation.scripts.APITestCases@96def03]" name="test4" duration-ms="71136" started-at="2022-05-05T14:27:07Z" description="Verify that per_page key&#039;s value is same as the count of available data on the page" finished-at="2022-05-05T14:28:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- com.ReqResApiAutomation.scripts.APITestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
